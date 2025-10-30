@@ -16,11 +16,11 @@ Members can borrow books and register for library events.
 
 ## 📁 Repository Structure
 lems-db/
-├─ phase1/
-│  ├─ CS306_Phase1_CanSatir_32531.pdf
-│  ├─ lems_mysql.sql
-│  └─ lems_sqlserver_azure.sql
-
+└── phase1/
+    ├── CS306_Phase1_CanSatir_32531.pdf
+    ├── lems_mysql.sql
+    └── lems_sqlserver_azure.sql
+    
 ---
 
 ## ☁️ Running on Azure SQL
